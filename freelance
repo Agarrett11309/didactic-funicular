@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aaron Garrett - Audio Technician & Broadcast Professional</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #2C3E50;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        header p {
+            font-size: 1.2em;
+            margin: 5px 0;
+        }
+        .container {
+            width: 80%;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #2C3E50;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin: 8px 0;
+        }
+        footer {
+            text-align: center;
+            background-color: #2C3E50;
+            color: white;
+            padding: 10px;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Aaron Garrett</h1>
+    <p>Audio Technician | Live Sound | Broadcast & Event Production</p>
+</header>
+
+<div class="container">
+    <h2>Professional Summary</h2>
+    <p>Skilled and reliable Audio Technician with over 20 years of experience in live event sound, radio broadcasting, DJ production, and audio gear repair. Proven ability to set up, operate, and troubleshoot audio systems for concerts, podcasts, live streams, and public events. Former program director, IT manager, and broadcast radio music programmer with deep knowledge of broadcast workflows, mixing boards, PA systems, and AV equipment. Dedicated to delivering clear, high-quality sound in any environment.</p>
+
+    <h2>Key Skills</h2>
+    <ul>
+        <li>Live Sound Reinforcement</li>
+        <li>Mixing Consoles (Analog & Digital)</li>
+        <li>Audio Equipment Setup & Repair</li>
+        <li>Wireless Microphones & PA Systems</li>
+        <li>Event Production & Stage Audio</li>
+        <li>Sports & Event Live Streaming</li>
+        <li>Podcast Recording & Editing</li>
+        <li>DMX Lighting Integration</li>
+        <li>Remote AV Support</li>
+        <li>OBS, vMix, Adobe Audition</li>
+    </ul>
+
+    <h2>Professional Experience</h2>
+    <h3>Freelance Audio Technician / Event Sound Producer</h3>
+    <p><strong>Self-Employed | Benton, AR | 2003–Present</strong></p>
+    <ul>
+        <li>Set up and operated full-scale PA and wireless mic systems for live events up to 500 attendees.</li>
+        <li>Mixed front-of-house audio for DJs, karaoke, weddings, and public performances.</li>
+        <li>Maintained and repaired audio consoles, speakers, and cables (including soldering work).</li>
+        <li>Provided live streaming audio for local sports, podcasts, and ceremonies.</li>
+        <li>Consulted for churches and small venues on AV installation and upgrades.</li>
+    </ul>
+
+    <h3>Radio DJ / Morning Show Host / Program Director</h3>
+    <p><strong>Local Radio Stations | Arkansas | [Years]</strong></p>
+    <ul>
+        <li>Hosted daily morning shows, managed station playlists, and coordinated on-air talent.</li>
+        <li>Operated live broadcast consoles and trained new staff in audio board operation.</li>
+        <li>Produced promos and ad spots using Adobe Audition and other editing tools.</li>
+        <li>Managed music programming, event promotion, and community outreach.</li>
+    </ul>
+
+    <h3>Broadcast Radio Music Programmer</h3>
+    <p><strong>Local Radio Station | Arkansas | [Years]</strong></p>
+    <ul>
+        <li>Curated and programmed music for daily radio shows, ensuring variety and appeal to target demographics.</li>
+        <li>Developed music rotation schedules and coordinated with artists and record labels for new releases.</li>
+        <li>Monitored station ratings and adjusted playlists based on listener feedback and analytics.</li>
+        <li>Collaborated with station management to maintain brand consistency and audience engagement.</li>
+    </ul>
+
+    <h3>Volunteer Audio Technician</h3>
+    <p><strong>Local Church | Benton, AR | [Years]</strong></p>
+    <ul>
+        <li>Managed live sound reinforcement for a church with 1000+ members.</li>
+        <li>Set up and operated mixing consoles, microphones, and PA systems for services and events.</li>
+        <li>Maintained audio equipment, coordinated with volunteers, and ensured high-quality sound during services and community events.</li>
+    </ul>
+
+    <h2>Tools & Equipment</h2>
+    <ul>
+        <li>Soundcraft, Behringer, Yamaha, Mackie mixers</li>
+        <li>Shure, Sennheiser, Audio-Technica wireless systems</li>
+        <li>OBS, vMix, StreamYard, Zoom</li>
+        <li>Adobe Audition, GarageBand, Reaper</li>
+        <li>DMX lighting, truss mounts, power distro</li>
+        <li>Soldering tools, multimeter, basic electronics repair</li>
+    </ul>
+
+    <h2>Contact Information</h2>
+    <p>Email: <a href="mailto:aaron.garrett@me.com">aaron.garrett@me.com</a><br>Phone: 501-563-9596</p>
+</div>
+
+<footer>
+    <p>&copy; 2025 Aaron Garrett | All Rights Reserved</p>
+</footer>
+
+</body>
+</html>
